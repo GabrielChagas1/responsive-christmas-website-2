@@ -71,6 +71,7 @@ let parallax = new Rellax('.parallax')
 
 /*=============== GSAP ANIMATION ===============*/
 gsap.from('.home__village', 1.2, {opacity: 0, y: 100, delay: .1})
+gsap.from('.home__pine', 1.2, {opacity: 0, y: 150, delay: .3})
 
 
 /*=============== SCROLL REVEAL ANIMATION ===============*/
