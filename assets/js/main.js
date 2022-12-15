@@ -70,6 +70,7 @@ window.addEventListener('scroll', scrollActive)
 let parallax = new Rellax('.parallax')
 
 /*=============== GSAP ANIMATION ===============*/
+gsap.from('.home__village', 1.2, {opacity: 0, y: 100, delay: .1})
 
 
 /*=============== SCROLL REVEAL ANIMATION ===============*/
