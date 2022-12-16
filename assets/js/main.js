@@ -75,6 +75,7 @@ gsap.from('.home__pine', 1.2, {opacity: 0, y: 150, delay: .3})
 gsap.from('.home__mountain-2', 1.2, {opacity: 0, y: 150, delay: .5})
 gsap.from('.home__mountain-3', 1.2, {opacity: 0, y: -150, delay: .6})
 gsap.from('.home__mountain-1', 1.2, {opacity: 0, y: 250, delay: .7})
+gsap.from('.home__moon', 1.2, {opacity: 0, y: 200, delay: .8})
 
 
 /*=============== SCROLL REVEAL ANIMATION ===============*/
