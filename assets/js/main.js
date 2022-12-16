@@ -81,3 +81,10 @@ gsap.from('.home__title', 1.2, {opacity: 0, y: -60, delay: 1})
 
 
 /*=============== SCROLL REVEAL ANIMATION ===============*/
+const sr = ScrollReveal({
+    origin: 'top',
+    distance: '60px',
+    duration: 2500,
+    delay: 400
+})
+
