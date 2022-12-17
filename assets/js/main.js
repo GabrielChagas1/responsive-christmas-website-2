@@ -89,3 +89,4 @@ const sr = ScrollReveal({
 })
 
 sr.reveal(`.about__data, .celebrate__img`, {origin: 'right'})
+sr.reveal(`.about__img, .celebrate__data`, {origin: 'left'})
