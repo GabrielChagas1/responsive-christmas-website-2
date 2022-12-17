@@ -88,3 +88,4 @@ const sr = ScrollReveal({
     delay: 400
 })
 
+sr.reveal(`.about__data, .celebrate__img`, {origin: 'right'})
