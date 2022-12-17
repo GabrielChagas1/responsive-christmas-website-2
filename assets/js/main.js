@@ -90,3 +90,4 @@ const sr = ScrollReveal({
 
 sr.reveal(`.about__data, .celebrate__img`, {origin: 'right'})
 sr.reveal(`.about__img, .celebrate__data`, {origin: 'left'})
+sr.reveal(`.send__card`, {interval: 100})
