@@ -45,7 +45,6 @@ function scrollUp(){
 }
 window.addEventListener('scroll', scrollUp)
 
-
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 const sections = document.querySelectorAll('section[id]')
 
@@ -79,7 +78,6 @@ gsap.from('.home__moon', 1.2, {opacity: 0, y: 200, delay: .8})
 gsap.from('.home__trineo', 1.2, {opacity: 0, y: -200, delay: .8})
 gsap.from('.home__title', 1.2, {opacity: 0, y: -60, delay: 1})
 
-
 /*=============== SCROLL REVEAL ANIMATION ===============*/
 const sr = ScrollReveal({
     origin: 'top',
@@ -91,3 +89,4 @@ const sr = ScrollReveal({
 sr.reveal(`.about__data, .celebrate__img`, {origin: 'right'})
 sr.reveal(`.about__img, .celebrate__data`, {origin: 'left'})
 sr.reveal(`.send__card`, {interval: 100})
+sr.reveal(`.footer`)
