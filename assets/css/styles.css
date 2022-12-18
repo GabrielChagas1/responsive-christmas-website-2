@@ -198,3 +198,21 @@ img {
   font-size: 1.25rem;
 }
 
+.nav__img-1,
+.nav__img-2{
+  position: absolute;
+}
+
+.nav__img-1{
+  width: 40px;
+  top: 6rem;
+  left: 2.5rem;
+  transform: rotate(-15deg);
+}
+
+.nav__img-2{
+  width: 60px;
+  right: 1rem;
+  bottom: 2rem;
+  transform: rotate(15deg);
+}
