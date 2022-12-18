@@ -227,3 +227,8 @@ img {
   background: var(--body-color);
 }
 
+/* Active link */
+.active-link{
+  color: var(--first-color);
+}
+
