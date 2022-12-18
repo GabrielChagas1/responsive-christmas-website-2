@@ -173,6 +173,18 @@ img {
   cursor: pointer;
 }
 
+@media screen and (max-width: 767px) {
+  .nav__menu{
+    position: fixed;
+    top: -100%;
+    left: 0;
+    background-color: var(--body-color);
+    width: 100%;
+    padding-block: 3.5rem;
+    transition: top .4s;
+  }
+}
+
 .nav__list{
   display: flex;
   flex-direction: column;
