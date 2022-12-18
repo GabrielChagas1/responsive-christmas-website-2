@@ -216,3 +216,8 @@ img {
   bottom: 2rem;
   transform: rotate(15deg);
 }
+
+/* Show menu */
+.show-menu{
+  top: 0;
+}
