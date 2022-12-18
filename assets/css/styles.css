@@ -149,3 +149,10 @@ img {
   align-items: center;
 }
 
+.nav__logo,
+.nav__toggle,
+.nav__close{
+  display: flex;
+  color: var(--white-color);
+}
+
