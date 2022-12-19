@@ -255,3 +255,11 @@ img {
   overflow: hidden;
 }
 
+.home__title{
+  color: var(--white-color);
+  font-size: var(--biggest-font-size);
+  font-family: var(--second-font);
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
