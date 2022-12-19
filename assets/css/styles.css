@@ -286,6 +286,19 @@ img {
   bottom: 1rem;
 }
 
+.home__pine{
+  width: 250px;
+  bottom: 4rem;
+}
+
+.home__mountain-2{
+  bottom: 3rem;
+}
+
+.home__mountain-3{
+  bottom: 6rem;
+}
+
   position: absolute;
 }
 
