@@ -281,6 +281,11 @@ img {
   margin: 0 auto;
 }
 
+.home__village{
+  width: 260px;
+  bottom: 1rem;
+}
+
   position: absolute;
 }
 
