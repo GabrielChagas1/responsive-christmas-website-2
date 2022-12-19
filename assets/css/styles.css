@@ -299,6 +299,11 @@ img {
   bottom: 6rem;
 }
 
+.home__moon{
+  width: 300px;
+  bottom: 8.5rem;
+}
+
   position: absolute;
 }
 
