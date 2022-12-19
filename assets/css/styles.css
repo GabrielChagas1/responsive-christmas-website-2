@@ -263,6 +263,10 @@ img {
   margin-top: 1.5rem;
 }
 
+.home img{
+  position: absolute;
+}
+
   position: absolute;
 }
 
