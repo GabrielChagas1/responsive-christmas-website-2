@@ -362,6 +362,15 @@ img {
   box-shadow: 0 8px 32px hsla(210, 80%, 54%, .7);
 }
 
+/*=============== SEND ===============*/
+.send__container{
+  position: relative;
+  grid-template-columns: 200px;
+  justify-content: center;
+  row-gap: 3rem;
+  padding-top: 1.5rem;
+}
+
   position: absolute;
 }
 
