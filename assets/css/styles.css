@@ -380,6 +380,11 @@ img {
   margin-bottom: .75rem;
 }
 
+.send__title{
+  font-size: var(--h3-font-size);
+  margin-bottom: .5rem;
+}
+
   position: absolute;
 }
 
