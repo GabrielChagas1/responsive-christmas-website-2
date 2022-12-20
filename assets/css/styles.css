@@ -371,6 +371,10 @@ img {
   padding-top: 1.5rem;
 }
 
+.send__card{
+  text-align: center;
+}
+
   position: absolute;
 }
 
