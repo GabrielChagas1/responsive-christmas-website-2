@@ -385,6 +385,11 @@ img {
   margin-bottom: .5rem;
 }
 
+.send__description{
+  font-size: var(--small-font-size);
+  padding-inline: 1.5rem;
+}
+
   position: absolute;
 }
 
