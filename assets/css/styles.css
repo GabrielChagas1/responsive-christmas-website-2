@@ -375,6 +375,11 @@ img {
   text-align: center;
 }
 
+.send__img{
+  width: 180px;
+  margin-bottom: .75rem;
+}
+
   position: absolute;
 }
 
