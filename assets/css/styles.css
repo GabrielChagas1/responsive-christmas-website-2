@@ -390,6 +390,30 @@ img {
   padding-inline: 1.5rem;
 }
 
+.send__snow-1,
+.send__snow-2,
+.send__snow-3{
+  width: 50px;
+  position: absolute;
+}
+
+.send__snow-1{
+  left: 0;
+  top: 7rem;
+  animation: var(--animate-snow-1);
+}
+
+.send__snow-2{
+  top: 23rem;
+  right: 0;
+  animation: var(--animate-snow-2);
+}
+
+.send__snow-3{
+  bottom: 9rem;
+  left: 0;
+  animation: var(--animate-snow-1);
+}
   position: absolute;
 }
 
