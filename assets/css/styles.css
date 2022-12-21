@@ -424,7 +424,13 @@ img {
   text-align: center;
 }
 
+.celebrate__description{
   margin-bottom: 2rem;
+}
+
+.celebrate__img{
+  width: 320px;
+  justify-self: center;
 }
 
   position: absolute;
