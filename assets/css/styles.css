@@ -713,3 +713,8 @@ img {
   }
 }
 
+@media screen and (min-width: 1064px){
+  .container{
+    margin-inline: auto;
+  }
+}
