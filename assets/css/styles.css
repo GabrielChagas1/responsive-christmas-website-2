@@ -555,3 +555,20 @@ img {
   bottom: 3rem;
 }
 
+/*=============== BREAKPOINTS ===============*/
+/* For medium devices */
+@media screen and(min-width: 576px){
+  .home__village{
+    width: 360px;
+  }
+  .home__pine{
+    width: 330px;
+  }
+
+  .about__container,
+  .celebrate__container{
+    grid-template-columns: .6fr;
+    justify-content: center;
+  }
+}
+
