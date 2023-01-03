@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center">About Responsive Christmas Website Design Using HTML CSS & JavaScript | Parallax Scrolling Website ⛄️</h1>
-    <p>Criação de um site com tema sobre flashcard</p>
-    <img src="./assets/img/preview.png" alt="Logo" width="800">
+    <p>Criação de um site com tema sobre natal</p>
+    <img src="./design/preview.png" alt="Logo" width="800">
 </div>
 
 ---
